@@ -1,0 +1,133 @@
+* {
+    font-family: 'Montserrat';
+}
+
+.container .nav-contact-info{
+    font-size: 14px;
+    margin-top:27px;
+}
+
+.container i, .container .country-img{
+    margin-right: 0.625rem;
+}
+
+.container .social-icons img{
+    margin-right: 0.938rem;
+}
+
+.container .nav-social-media span{
+    font-size: 14px;
+}
+
+.container .navbar{
+    background-color: #F5F5F5;
+    height: 50px;
+}
+
+.container .nav-link{
+    color: black;
+}
+
+.container .nav-link:hover{
+    color: black;
+}
+
+.container .navbar-nav li:not(:first-child):not(:last-child){
+    margin: 0px 62.5px;
+}
+
+.container .new-stuff-container .discount-col{
+    position: relative;
+}
+
+.container .new-stuff-container .discount{
+    position: absolute;
+    right: 2rem;
+    top: -1rem;
+    background-color: #D92B2B;
+    font-size: 14px;
+    padding: 6px 20px;
+}
+
+.container .new-stuff-container, .container .shop-info, .container .shop-info-advantage{
+    margin-top: 35px;
+}
+
+.container .new-stuff-container table, .bestseller-container .container table{
+    margin-top: 15px;
+}
+
+.container .new-stuff-container table tr:first-child td, .bestseller-container .container table tr:first-child td{
+    font-size: 22px;
+}
+
+.container .new-stuff-container table tr:last-child td, .bestseller-container .container table tr:last-child td{
+    font-size: 22px;
+    color: #AA7E48;
+}
+
+.container .new-stuff-container table tr:last-child td:nth-child(2){
+    font-size: 22px;
+    color: #D92B2B;
+}
+
+.container .new-stuff-container img:hover{
+    content: url("assets/img_hover/311442064_110146481880551_2315590049542358394_n.jpg");
+    transition: 1s;
+}
+
+.container .see-all-products{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.bestseller-container{
+    background-image: url("assets/Rectangle_6/Rectangle_6.jpg");
+}
+
+.container .bestseller{
+    margin-top: 25px;
+    margin-bottom: 35px;
+}
+
+
+.container .advantage-image-section{
+    position: relative;
+}
+
+.container .advantage-image-section .img{
+    position: absolute;
+    right: 85px;
+    top: 35px;
+}
+
+
+
+.container .shop-info-advantage img{
+    background-color: #F9F9F9;
+    border-radius: 50%;
+    padding: 33px;
+}
+
+.container .shop-info-advantage table tr:first-child{
+    font-size: 32px;
+    margin-top: 25px;
+}
+
+.container .shop-info-advantage{
+    margin-bottom: 100px;
+}
+
+.container .footer{
+    margin-top: 15px;
+}
+
+.container .footer table a{
+    color: #555555;
+    text-decoration: none;
+}
+.container .footer p, .container .footer table th{
+    font-size: 18px;
+    color: black;
+}
+
